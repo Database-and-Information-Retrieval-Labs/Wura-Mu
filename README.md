@@ -17,3 +17,31 @@ Wura mu is a school placement appplication for the basic school to secondary sch
 - forgot password 
 - Download placement slip 
 - protocol slot for schools 
+
+
+## Database
+### Category
+- name
+-Segment
+- General facilities
+
+### Courses
+- name
+- course_ID
+- description
+- syllabus
+
+### Students
+- name
+- index_Number
+- results
+- school_choices
+
+### Schools
+- name
+- location
+- school_id
+- region
+- courses_offered
+- category
+- acceptance_rate
